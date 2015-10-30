@@ -10,6 +10,11 @@ At first this will be mostly a placeholder, as I record and start to organize my
 I’ve wanted to put a computer in a car for years. I’ve never done it because of time and resources, but a large part is that I never had the capability to **truly** do things how I want. Being a programmer, though, I’ve learned that a great deal is possible. Node.js, and especially the [Johnny-Five framework](http://johnny-five.io/), provides a stable platform with which to affect the real world with JavaScript. So here I am, doing just that.
 
 
+## Events
+
+This system is basically a more well defined set of event handlers.
+
+
 ## Components
 
 + [Doors](docs/doors.md) (empty)
